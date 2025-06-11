@@ -1,6 +1,6 @@
 # 🧠 Data Science Portfolio 
 
-Welcome to my personal collection of Data Science and Machine Learning projects. Each repository showcases a unique business problem, real-world data, and end-to-end solutions — from data wrangling and feature engineering to predictive modeling and deployment. This portfolio reflects my passion for solving complex problems using data.
+Welcome to my personal collection of Data Science and Machine Learning projects. Each repository showcases a unique business problem, real-world data, and end-to-end solutions, from data wrangling and feature engineering to predictive modeling and deployment. This portfolio reflects my passion for solving complex problems using data.
 
 ---
 
